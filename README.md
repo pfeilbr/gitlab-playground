@@ -34,6 +34,9 @@ cat ~/.ssh/id_rsa.pub | pbcopy
 
 # note port 2022
 git clone ssh://git@localhost:2022/root/project01.git
+
+# stopping
+sudo docker stop gitlab
 ```
 
 ---

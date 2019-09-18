@@ -39,7 +39,7 @@ git clone ssh://git@localhost:2022/root/project01.git
 ---
 
 Container Logs via Kitematic UI
-![](https://www.evernote.com/l/AAEuFGfKNfxALLJSmQZ0GC7DCox1cV1MwqUB/image.png)
+![](https://www.evernote.com/l/AAHs12CyIodBZp3cOuZumtkxJG2f-3Az3DQB/image.png)
 
 Project view
 ![](https://www.evernote.com/l/AAEuFGfKNfxALLJSmQZ0GC7DCox1cV1MwqUB/image.png)
